@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mohshin Shah</title>
+    <link>https://mohshin-shah.github.io/</link>
+    <description>Recent content on Mohshin Shah</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 23 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://mohshin-shah.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me</title>
+      <link>https://mohshin-shah.github.io/about/</link>
+      <pubDate>Fri, 23 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohshin-shah.github.io/about/</guid>
+      <description>Bio Extremely motivated to constantly develop my skills and grow professionally. I am confident in my ability to come up with interesting ideas. I always love to try new creative things. It gives me pleasure as well as confirmation that there’s still living creature exists in my body.
+Work  MSTabBarController MSAlertView Portfolio RestKitModelHelper Facebook Contribution  Have questions or suggestions? Feel free to send me an email or catch me on any of the social network.</description>
+    </item>
+    
+  </channel>
+</rss>
