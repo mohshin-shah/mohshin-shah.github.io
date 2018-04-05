@@ -1,0 +1,83 @@
+languageCode = "en-us"
+title = "Mohshin Shah"
+baseurl = "https://mohshin-shah.github.io"
+theme = "prologue"
+
+[params]
+  name = "Mohshin Shah"
+  description = "iOS Engineer"
+  copyright = "Mohshin Shah."
+
+[[params.social]]
+  medium = "twitter"
+  icon = "twitter"
+  link = "https://twitter.com/mohshin3"
+
+[[params.social]]
+  medium = "facebook"
+  icon = "facebook"
+  link = "https://www.facebook.com/mohshin.19"
+
+[[params.social]]
+  medium = "github"
+  icon = "github"
+  link = "https://github.com/mohshin-shah"
+
+[[params.social]]
+  medium = "linkedin"
+  icon = "linkedin"
+  link = "https://www.linkedin.com/mohshin-shah-87711290"
+
+[[params.social]]
+  medium = "email"
+  icon = "envelope"
+  link = "mailto:mohshinshah@gmail.com"
+
+# Portfolio column one
+[[params.portfolio1]]
+  title = "Facebook Swift SDK"
+  alt = "Facebook Swift SDK"
+  url = "https://github.com/facebook/facebook-sdk-swift/pull/92"
+  source = "img/facebook.jpg"
+
+[[params.portfolio2]]
+  title = "MSTabbarController(Pod)"
+  alt = "SpendWitty"  
+  url = "https://cocoapods.org/?q=mstabbarcontroller"
+  source = "img/cocoapods.png"  
+
+[[params.portfolio3]]
+  title = "Riviko"
+  alt = "Riviko iOS App"
+  url = "https://itunes.apple.com/us/app/kasper/id972054253?mt=8"
+  source = "img/riviko.jpg"
+
+[[params.portfolio4]]
+title = "CallPotential SmartKIOSK"
+alt = "CallPotential SmartKiosk"
+url = "https://itunes.apple.com/us/app/callpotential-smartkiosk/id1127359391?mt=8"
+source = "img/smartkiosk.jpg"
+
+[[params.portfolio1]]
+  title = "NTT Arcstar"
+  alt = "NTT Arcstar"  
+  url = "https://itunes.apple.com/sg/app/ntt-arcstar-network-view/id978781724?mt=8"
+  source = "img/ntt.jpg"
+
+[[params.portfolio2]]
+  title = "SpendWitty"
+  alt = "SpendWitty"
+  url = "https://itunes.apple.com/us/app/spendwitty/id1034699231?mt=8"
+  source = "img/spendwitty.jpg"
+
+[[params.portfolio3]]
+  title = "Healow"
+  alt = "Healow"  
+  url = "https://itunes.apple.com/us/app/healow/id595012291?mt=8"
+  source = "img/healow.jpg"
+
+[[params.portfolio4]]
+  title = "Other"
+  alt = "Other"
+  source = "img/other.png"
+  url = "https://mohshin-shah.github.io/Resume_Mohshin_Shah_iOS_Developer.pdf"
